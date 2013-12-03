@@ -12,11 +12,11 @@
                 <key>background</key>
                 <string>#252525</string>
                 <key>caret</key>
-                <string>#F8F8F0</string>
+                <string>#F8F8F8</string>
                 <key>foreground</key>
-                <string>#F8F8F2</string>
+                <string>#F8F8F8</string>
                 <key>invisibles</key>
-                <string>#3B3A32</string>
+                <string>#3A3A3A</string>
                 <key>lineHighlight</key>
                 <string>#343434</string>
                 <key>selection</key>
@@ -26,17 +26,17 @@
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
                 <key>selectionBorder</key>
-                <string>#222218</string>
+                <string>#222222</string>
                 <key>activeGuide</key>
                 <string>#9D550FB0</string>
 
                 <key>bracketsForeground</key>
-                <string>#F8F8F2A5</string>
+                <string>#F8F8F8A5</string>
                 <key>bracketsOptions</key>
                 <string>underline</string>
 
                 <key>bracketContentsForeground</key>
-                <string>#F8F8F2A5</string>
+                <string>#F8F8F8A5</string>
                 <key>bracketContentsOptions</key>
                 <string>underline</string>
 
@@ -288,7 +288,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#F8F8F0</string>
+                <string>#F8F8F8</string>
             </dict>
         </dict>
         <dict>
@@ -301,7 +301,7 @@
                 <key>background</key>
                 <string>#AE81FF</string>
                 <key>foreground</key>
-                <string>#F8F8F0</string>
+                <string>#F8F8F8</string>
             </dict>
         </dict>
         <dict>
@@ -312,7 +312,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#CFCFC2</string>
+                <string>#CFCFCF</string>
             </dict>
         </dict>
 
