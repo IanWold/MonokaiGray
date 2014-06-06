@@ -109,6 +109,8 @@
             <dict>
                 <key>fontStyle</key>
                 <string></string>
+                <key>foreground</key>
+                <string>#F92672</string>
             </dict>
         </dict>
         <dict>
@@ -377,6 +379,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#E6DB74</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F8F8F8</string>
             </dict>
         </dict>
 
